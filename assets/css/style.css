@@ -1,0 +1,33 @@
+body{
+    background-image: url("https://image.freepik.com/foto-gratis/brillante-codigo-binario-azul-sobre-fondo-negro_13339-250148.jpg");
+    background-size: cover;
+    color: black;
+}
+.container{
+    color: white;
+}
+h1{
+    text-align: center;
+       
+}
+legend{
+    color: white;
+}
+label{
+    color: white;
+}
+.jumbotron{
+    background-color:#2f4033b5;
+}
+.btn{
+    margin: 2px 2px 0px 2px;
+    background-color: black
+}
+img{
+    border: 10px solid rgb(253, 253, 253);
+    height: 250px;
+    width: 250px;
+}
+#gifsView{
+height: 800px;
+}
